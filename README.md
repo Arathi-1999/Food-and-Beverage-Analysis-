@@ -24,7 +24,7 @@
 
 **•** Provide data-driven recommendations for product and marketing strategies.
 
-**⚒️Tools & Technologies:**
+## ⚒️Tools & Technologies:
 
 1.Power BI – Dashboard creation and visualization
 
