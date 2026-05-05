@@ -24,6 +24,14 @@
 
 **•** Provide data-driven recommendations for product and marketing strategies.
 
+**⚒️Tools & Technologies:**
+
+1.Power BI – Dashboard creation and visualization
+
+2.Excel – Data cleaning and transformation
+
+3.DAX & Power Query – Data modeling and measures
+
 ## 🔗 Live Dashboard
 Explore the interactive Power BI dashboard here:
 
