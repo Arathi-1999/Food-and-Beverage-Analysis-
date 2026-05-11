@@ -37,7 +37,7 @@ Explore the interactive Power BI dashboard here:
 
 ## 🧠 Key Insights
 
-**1. Demographics**
+## 1. Demographics Insights
 
 • Males (60.38%) are the primary consumers.
 
@@ -45,27 +45,30 @@ Explore the interactive Power BI dashboard here:
 
 • Online ads reach the most youth (15–30 years).
 
-**2. Consumer Preferences**
+## 2. Consumer Preferences
 
 • Most preferred ingredient: Caffeine (30%)
 
 • Preferred packaging: Compact and portable cans
 
-**3. Competition**
+## 3. Competition Analysis 
 
 • Market leaders: Cola-Coka (25.4%), Bepsi (21.1%), Gangster (18.5%)
 
 • Main reasons for preferring competitors: Brand reputation and Availability
 
-**4. Brand Penetration**
+## 4. Brand Penetration
 • CodeX average rating: 3.27 / 5 (industry average)
 
 • Focus cities: Bangalore, Mumbai, Hyderabad, and Pune.
 
-**5. Purchasing Behavior**
+## 5. Purchasing Behavior
 
 • Most buyers purchase from Supermarkets (44.9%)
 
 • Top usage occasions: Sports/Exercise (45%) and Studying/Working late (32%)
 
 • Preferred price range: ₹50–99
+
+## Product Development 
+
