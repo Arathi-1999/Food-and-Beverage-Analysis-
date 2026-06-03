@@ -70,7 +70,6 @@ Explore the interactive Power BI dashboard here:
 
 • Preferred price range: ₹50–99
 
-## Product Development 
 ## Recommendations
 
 **🔹 Product Development**
