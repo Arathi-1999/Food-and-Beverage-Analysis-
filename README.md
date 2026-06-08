@@ -70,6 +70,9 @@ Explore the interactive Power BI dashboard here:
 
 • Preferred price range: ₹50–99
 
+## 📎 Live Interactive Dashboard 
+**https://app.powerbi.com/view?r=eyJrIjoiMjRhZDIwNWYtMWJjYS00Yjk0LWFiYTQtOTkyZTY3MDA4YTVlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
+
 ## Recommendations
 
 **🔹 Product Development**
